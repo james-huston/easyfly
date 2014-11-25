@@ -1,0 +1,28 @@
+{
+  "name": "easyfly",
+  "version": "0.1.0",
+  "description": "Flight plan wrapper for easy config based deploys to AWS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/james-huston/easyfly.git"
+  },
+  "keywords": [
+    "flightplan",
+    "aws"
+  ],
+  "author": "James Huston (http://github.com/james-huston)",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/james-huston/easyfly/issues"
+  },
+  "homepage": "https://github.com/james-huston/easyfly",
+  "dependencies": {
+    "aws-sdk": "~2.0.28",
+    "envcfg": "^0.1.1",
+    "flightplan": "~0.5.3"
+  }
+}
