@@ -4,6 +4,6 @@ module.export = envcfg({
   "*" : {
     "accessKeyId": "",
     "secretAccessKey": "",
-    "region": ""
+    "region": "us-east"
   }
 });
